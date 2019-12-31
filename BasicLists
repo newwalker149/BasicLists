@@ -33,6 +33,10 @@ print(courses)
 courses.pop()
 print(courses)
 
+popped_courses = courses.pop() #To print/check the value that was deleted
+print(courses)
+print(popped_courses)
+
 num = [5,2,4,1,3]
 
 print(num)
